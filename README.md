@@ -1,5 +1,5 @@
 # Drivers
-Driver's Travel Application made with Swift UI
+Driver's Trips Application made with Swift UI
 
 # By Apple
 Xcode 11.3.1
